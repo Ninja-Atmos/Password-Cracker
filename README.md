@@ -1,4 +1,4 @@
-# Password Cracker GUI - Created by Suvam
+# Password Cracker - Created by Suvam
 
 This project is a **Graphical User Interface (GUI) tool to brute-force protected files using a wordlist.**
 It supports cracking passwords for:

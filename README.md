@@ -78,7 +78,7 @@ python password_cracker.py
 
 ## 🔗 Notes
 - The cracking is **wordlist-based**: it can only find passwords that exist in your wordlist.
-- For better results, use a large wordlist (like `Common Passwords`) txt file which i added on already.
+- For better results, use a large wordlist (like `Common Passwords`) txt file which i added already.
 - `.rar` is currently **not supported** — you can extend it later.
 
 ---
